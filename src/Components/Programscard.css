@@ -1,0 +1,37 @@
+.div-conteiner {
+    padding-top: 15px;
+    display: flex;
+}
+.div-center-text { 
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    border: solid black 2px;
+    border-radius: 10px;
+    position: flex;
+    padding: 10px;
+}
+.div-program-left{
+    width: 25%;
+    padding-top: 10px;
+    padding-left: 0px;
+    margin-left: 0px;
+}
+.div-program-right {
+    margin-left: 0px;
+    padding-right: 20px;
+    width: 20%;
+}
+#demo-row-radio-buttons-group-label {
+   background-color:#9031aa;
+   color:white;
+}
+.programs-card-h1{
+    margin-top: 28px;
+    margin-left: 480px;
+    color: #9031aa;
+    border-radius: 10px;
+    border: solid #9031aa 2px;
+    width: 390px;
+}
+    

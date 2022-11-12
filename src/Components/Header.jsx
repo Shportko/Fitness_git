@@ -11,7 +11,7 @@ const Header = () => {
       <img src={logo} alt='LOGO' className='logo' />
         <div className='header-menu'>
           <div>
-            <Button color='info'>HOME</Button>
+            <Button onClick={() => window.open("https://ru.wikipedia.org/wiki/")} color='info'>HOME</Button>
             <Button color='warning'>PROGRAMS</Button>
             <Button color='secondary'>PRICING</Button>
             <Button color='success'>FAQ</Button>

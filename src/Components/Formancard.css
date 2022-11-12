@@ -1,0 +1,27 @@
+.div-forman-card{
+  padding-top: 15px;
+  padding-left: 50px;
+}
+.forman-text-h1{
+color: #9031aa;
+border-radius: 10px;
+border: solid #9031aa 2px;
+width: 390px;
+}
+.bulk_photo_forman{
+  padding-top: 10px;
+  width: 270px;
+  height: 50%;
+  border-radius: 10px;
+}
+.forman-text-card{
+color: #9031aa;
+padding-top: 10px;
+}
+.button-forman-card{
+  padding-left: 150px;
+  padding-top: 20px;
+}
+.div-list-card-forman{
+margin-right: 120px;
+}
