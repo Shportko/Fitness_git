@@ -14,7 +14,7 @@ import Select from '@mui/material/Select';
 
   return (
     <div>
-      <FormControl variant="standard" color="secondary" sx={{ m: 0, minWidth: 140 }}>
+      <FormControl variant="standard" color="info" sx={{ m: 0, minWidth: 140 }}>
         <InputLabel color='warning' id="demo-simple-select-standard-label">level</InputLabel>
         <Select
           labelId="demo-simple-select-standard-label"

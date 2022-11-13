@@ -3,10 +3,10 @@
   padding-left: 50px;
 }
 .forman-text-h1{
-color: #9031aa;
-border-radius: 10px;
-border: solid #9031aa 2px;
-width: 390px;
+  color: #082379;
+  border-radius: 10px;
+  border: solid #082379 2px;
+  width: 390px;
 }
 .bulk_photo_forman{
   padding-top: 10px;
@@ -15,13 +15,14 @@ width: 390px;
   border-radius: 10px;
 }
 .forman-text-card{
-color: #9031aa;
-padding-top: 10px;
+  color: #082379;
+  padding-top: 10px;
+  font-weight:600;
 }
 .button-forman-card{
   padding-left: 150px;
   padding-top: 20px;
 }
 .div-list-card-forman{
-margin-right: 120px;
+  margin-right: 120px;
 }
